@@ -4,7 +4,7 @@ In honor of the upcoming 2024 Master's Tournament in Augusta, this project was a
 short recap of all the players who has qualified from 2015-2022, the most cuts made, 
 and Tiger's final score of his 2019 victory (Have to make a special query for the GOAT).
 
-Check out the queries at [pga_tour_stats]
+Check out the queries at [2015-2022_PGA_Tour](/pga_tour_stats/)
 
 # Findings
 
