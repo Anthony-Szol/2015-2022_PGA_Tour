@@ -13,3 +13,9 @@ WHERE
     player = 'Tiger Woods' AND
     season = 2019 AND
     tournament_name = 'Masters Tournament';
+
+/*
+Summary
+
+Tiger Woods' final score for his victory at the 2019 Master's Tournament was -13.
+*/
